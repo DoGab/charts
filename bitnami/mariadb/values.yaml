@@ -18,8 +18,8 @@
 ##
 image:
   registry: docker.io
-  repository: bitnami/mariadb
-  tag: 10.3.23-debian-10-r0
+  repository: yobasystems/alpine-mariadb
+  tag: 10.4.13-arm32v7
   ## Specify a imagePullPolicy
   ## Defaults to 'Always' if image tag is 'latest', else set to 'IfNotPresent'
   ## ref: http://kubernetes.io/docs/user-guide/images/#pre-pulling-images
